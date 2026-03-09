@@ -25,8 +25,8 @@ export default function Contact() {
           Contact Us
         </h1>
 
-        <p className="mb-3">Email: contact@hopefoundation.org</p>
-        <p className="mb-3">Phone: +91 70007 72362</p>
+        <p className="mb-3">Email: sarthakpersonal755@gmail.com</p>
+        <p className="mb-3">Phone: +91 90095 85458</p>
         <p>Bhopal, Madhya Pradesh, India</p>
 
       </div>
